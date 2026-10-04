@@ -25,37 +25,37 @@
       "path": "config/fancymenu/LEEME.txt",
       "size": 220,
       "sha256": "4f931300c88d399cbefb05ca63dffeaf756a29e9f6c8b7007968e0b422e9476b",
-      "url": "https://raw.githubusercontent.com/isramiranda048-lgtm/isar-caro-minecraft-ios/main/Distribution/0.1.2/files/config/fancymenu/LEEME.txt"
+      "url": "https://raw.githubusercontent.com/isramiranda048-lgtm/isar-caro-content/main/Distribution/0.1.2/files/config/fancymenu/LEEME.txt"
     },
     {
       "path": "config/voicechat/voicechat-client.properties",
       "size": 445,
       "sha256": "0d770335f9058ce8cbfc31268204fa6fbca6637afe4bd36a78952cff467d89be",
-      "url": "https://raw.githubusercontent.com/isramiranda048-lgtm/isar-caro-minecraft-ios/main/Distribution/0.1.2/files/config/voicechat/voicechat-client.properties"
+      "url": "https://raw.githubusercontent.com/isramiranda048-lgtm/isar-caro-content/main/Distribution/0.1.2/files/config/voicechat/voicechat-client.properties"
     },
     {
       "path": "mods/LEEME.txt",
       "size": 149,
       "sha256": "e7d78390f84350e4c5f2d643e13a24835d30aaab5676c7652d383e18fd0e7b31",
-      "url": "https://raw.githubusercontent.com/isramiranda048-lgtm/isar-caro-minecraft-ios/main/Distribution/0.1.2/files/mods/LEEME.txt"
+      "url": "https://raw.githubusercontent.com/isramiranda048-lgtm/isar-caro-content/main/Distribution/0.1.2/files/mods/LEEME.txt"
     },
     {
       "path": "options.txt",
       "size": 117,
       "sha256": "dccdcafd2b849474fef9ff27e04e424ca7cf70f714943fb155ccf68b9edb5013",
-      "url": "https://raw.githubusercontent.com/isramiranda048-lgtm/isar-caro-minecraft-ios/main/Distribution/0.1.2/files/options.txt"
+      "url": "https://raw.githubusercontent.com/isramiranda048-lgtm/isar-caro-content/main/Distribution/0.1.2/files/options.txt"
     },
     {
       "path": "resourcepacks/isar-caro-kawaii/LEEME.txt",
       "size": 152,
       "sha256": "7250d46aa83638261b708124f4b569610db696e4d6272c8cb88c6904cac21067",
-      "url": "https://raw.githubusercontent.com/isramiranda048-lgtm/isar-caro-minecraft-ios/main/Distribution/0.1.2/files/resourcepacks/isar-caro-kawaii/LEEME.txt"
+      "url": "https://raw.githubusercontent.com/isramiranda048-lgtm/isar-caro-content/main/Distribution/0.1.2/files/resourcepacks/isar-caro-kawaii/LEEME.txt"
     },
     {
       "path": "resourcepacks/isar-caro-kawaii/pack.mcmeta",
       "size": 93,
       "sha256": "fbf4170330365699181bbebfed5fd69cd8b0168161d03d714b54619b7ffbaed4",
-      "url": "https://raw.githubusercontent.com/isramiranda048-lgtm/isar-caro-minecraft-ios/main/Distribution/0.1.2/files/resourcepacks/isar-caro-kawaii/pack.mcmeta"
+      "url": "https://raw.githubusercontent.com/isramiranda048-lgtm/isar-caro-content/main/Distribution/0.1.2/files/resourcepacks/isar-caro-kawaii/pack.mcmeta"
     }
   ],
   "mods": [
