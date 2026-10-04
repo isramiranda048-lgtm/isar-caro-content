@@ -1,0 +1,9 @@
+fullscreen:true
+enableVsync:true
+fov:0.0
+renderDistance:6
+simulationDistance:5
+particles:1
+graphicsMode:0
+maxFps:60
+

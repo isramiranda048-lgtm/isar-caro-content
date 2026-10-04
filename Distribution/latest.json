@@ -1,0 +1,99 @@
+{
+  "schema": 1,
+  "pack": "isar-caro",
+  "version": "0.1.2",
+  "generatedAt": "2026-10-04T14:18:16.2722702Z",
+  "minecraft": "1.21.1",
+  "loader": {
+    "name": "neoforge",
+    "version": "21.1.249"
+  },
+  "authentication": {
+    "mode": "offline",
+    "playerName": "Cookie",
+    "showAccountScreen": false,
+    "uuidStrategy": "minecraft-offline-stable"
+  },
+  "server": {
+    "name": "Isar & Caro",
+    "address": "roosevelt-struggles.tun.ply.gg",
+    "port": 25565,
+    "autoConnect": true
+  },
+  "files": [
+    {
+      "path": "config/fancymenu/LEEME.txt",
+      "size": 220,
+      "sha256": "4f931300c88d399cbefb05ca63dffeaf756a29e9f6c8b7007968e0b422e9476b",
+      "url": "https://raw.githubusercontent.com/isramiranda048-lgtm/isar-caro-minecraft-ios/main/Distribution/0.1.2/files/config/fancymenu/LEEME.txt"
+    },
+    {
+      "path": "config/voicechat/voicechat-client.properties",
+      "size": 445,
+      "sha256": "0d770335f9058ce8cbfc31268204fa6fbca6637afe4bd36a78952cff467d89be",
+      "url": "https://raw.githubusercontent.com/isramiranda048-lgtm/isar-caro-minecraft-ios/main/Distribution/0.1.2/files/config/voicechat/voicechat-client.properties"
+    },
+    {
+      "path": "mods/LEEME.txt",
+      "size": 149,
+      "sha256": "e7d78390f84350e4c5f2d643e13a24835d30aaab5676c7652d383e18fd0e7b31",
+      "url": "https://raw.githubusercontent.com/isramiranda048-lgtm/isar-caro-minecraft-ios/main/Distribution/0.1.2/files/mods/LEEME.txt"
+    },
+    {
+      "path": "options.txt",
+      "size": 117,
+      "sha256": "dccdcafd2b849474fef9ff27e04e424ca7cf70f714943fb155ccf68b9edb5013",
+      "url": "https://raw.githubusercontent.com/isramiranda048-lgtm/isar-caro-minecraft-ios/main/Distribution/0.1.2/files/options.txt"
+    },
+    {
+      "path": "resourcepacks/isar-caro-kawaii/LEEME.txt",
+      "size": 152,
+      "sha256": "7250d46aa83638261b708124f4b569610db696e4d6272c8cb88c6904cac21067",
+      "url": "https://raw.githubusercontent.com/isramiranda048-lgtm/isar-caro-minecraft-ios/main/Distribution/0.1.2/files/resourcepacks/isar-caro-kawaii/LEEME.txt"
+    },
+    {
+      "path": "resourcepacks/isar-caro-kawaii/pack.mcmeta",
+      "size": 93,
+      "sha256": "fbf4170330365699181bbebfed5fd69cd8b0168161d03d714b54619b7ffbaed4",
+      "url": "https://raw.githubusercontent.com/isramiranda048-lgtm/isar-caro-minecraft-ios/main/Distribution/0.1.2/files/resourcepacks/isar-caro-kawaii/pack.mcmeta"
+    }
+  ],
+  "mods": [
+    {
+      "name": "FancyMenu",
+      "version": "3.9.12",
+      "side": "client",
+      "file": "fancymenu_neoforge_3.9.12_MC_1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/Jjr0fpDH/fancymenu_neoforge_3.9.12_MC_1.21.1.jar",
+      "sha1": "388d2380529fc175bfe1337e1a5b46b694284ccb",
+      "size": 25912346
+    },
+    {
+      "name": "Konkrete",
+      "version": "1.9.9",
+      "side": "client",
+      "file": "konkrete_neoforge_1.9.9_MC_1.21.jar",
+      "url": "https://cdn.modrinth.com/data/J81TRJWm/versions/stJDU839/konkrete_neoforge_1.9.9_MC_1.21.jar",
+      "sha1": "97771eb287d5ac7fe667d1df9493d5e54c8ca1fa",
+      "size": 618842
+    },
+    {
+      "name": "Melody",
+      "version": "1.0.10",
+      "side": "client",
+      "file": "melody_neoforge_1.0.10_MC_1.21.jar",
+      "url": "https://cdn.modrinth.com/data/CVT4pFB2/versions/efcdRVZP/melody_neoforge_1.0.10_MC_1.21.jar",
+      "sha1": "e83052a92c4ca0016bcfe7f0207273983dc84698",
+      "size": 36096
+    },
+    {
+      "name": "Simple Voice Chat",
+      "version": "2.6.24",
+      "side": "client",
+      "file": "voicechat-neoforge-1.21.1-2.6.24.jar",
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/qqNx1Yjm/voicechat-neoforge-1.21.1-2.6.24.jar",
+      "sha1": "436ee200d5192ffda65fcf70c42c086fcdc00826",
+      "size": 4934688
+    }
+  ]
+}

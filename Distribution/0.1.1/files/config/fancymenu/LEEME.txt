@@ -1,0 +1,5 @@
+Pega aqui el contenido de tu carpeta .minecraft/config/fancymenu/.
+
+Puedes editar el menu en tu PC con el editor visual de FancyMenu. Al publicar,
+esta carpeta se enviara automaticamente al perfil de Caro en el iPhone.
+
