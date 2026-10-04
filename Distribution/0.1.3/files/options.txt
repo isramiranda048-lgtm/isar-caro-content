@@ -1,0 +1,11 @@
+fullscreen:true
+enableVsync:true
+fov:0.0
+renderDistance:6
+simulationDistance:5
+particles:1
+graphicsMode:0
+maxFps:60
+resourcePacks:["vanilla","file/PinkSweet GUI 1.20.1.zip","file/Sweet sweet hotbar!! 1.21.zip"]
+incompatibleResourcePacks:["file/PinkSweet GUI 1.20.1.zip"]
+

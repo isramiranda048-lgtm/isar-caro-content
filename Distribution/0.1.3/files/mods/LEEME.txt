@@ -1,0 +1,3 @@
+Solo coloca aqui mods que tengas permiso de redistribuir.
+Los mods de Modrinth deben agregarse preferentemente a mods.json mediante su URL oficial.
+
